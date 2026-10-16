@@ -12,6 +12,12 @@ Install the Joboostr plugin in Claude. Open its **Connectors** tab, add or conne
 
 Job reading, job management and resume management have separate permissions. Installing the plugin does not grant access to your account. Review the requested permissions during sign-in. Joboostr checks account ownership and membership on each action. If an action needs permission your connection lacks, reconnect Joboostr through Claude’s connector settings and explicitly approve the required access.
 
+For Claude Code, install from Joboostr’s public marketplace:
+
+```text
+/plugin install joboostr --marketplace joboostr/joboostr-claude
+```
+
 ## Try it
 
 - Find up to five product designer jobs in Prague, Czechia.

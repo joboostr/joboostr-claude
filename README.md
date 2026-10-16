@@ -13,4 +13,4 @@ claude plugin validate --strict ./joboostr
 claude --plugin-dir ./joboostr
 ```
 
-The marketplace catalog is `.claude-plugin/marketplace.json`. It can be installed from the final published repository using Claude’s Add marketplace flow. A local archive is for private testing; it does not create a directory listing.
+The public distribution repository is https://github.com/joboostr/joboostr-claude. The marketplace catalog is `.claude-plugin/marketplace.json`. Install with `/plugin install joboostr --marketplace joboostr/joboostr-claude` in current Claude Code, or use Claude’s Add marketplace flow with the repository URL. A local archive is for private testing; it does not create a directory listing.

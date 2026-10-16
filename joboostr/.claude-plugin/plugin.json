@@ -1,6 +1,6 @@
 {
   "name": "joboostr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Find Joboostr jobs, manage saved jobs and application progress, and create, tailor, edit and export account resumes.",
   "author": {
     "name": "Vadim Sharapov",
@@ -15,5 +15,10 @@
     "resumes",
     "joboostr"
   ],
-  "displayName": "Joboostr"
+  "displayName": "Joboostr",
+  "repository": "https://github.com/joboostr/joboostr-claude",
+  "documentationUrl": "https://github.com/joboostr/joboostr-claude/blob/main/joboostr/README.md",
+  "privacyPolicyUrl": "https://www.joboostr.com/en/assistant-privacy",
+  "supportUrl": "https://www.joboostr.com/en/kontakt",
+  "termsOfServiceUrl": "https://www.joboostr.com/en/podminky"
 }
