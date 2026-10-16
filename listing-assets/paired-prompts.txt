@@ -1,0 +1,12 @@
+01-job-details.png
+Show the real interactive Joboostr card for pos_e6a2aceb86cb42f4af7bf9d90000aa9d using exactly one get_job call. Do not search or change any tracking, résumé, account or application data. Do not open links or use other connectors. After displaying the card, add only “Job details shown.”
+
+
+02-search-result.png
+Find one Product Owner job in Prague, Czechia with Joboostr search_jobs and show its real interactive card. Limit the result to one job. Do not change tracking or résumés, open links, contact employers, or use other connectors. After the card, add only “Search result shown.”
+
+
+03-saved-status-controls.png
+Find one Product Owner job in Prague, Czechia with Joboostr search_jobs and show its real interactive card. Limit the result to one job. Do not change tracking or résumés, open links, contact employers, or use other connectors. After the card, add only “Search result shown.”
+
+Manual UI actions after that response: click Save for later, wait for the saved confirmation, open Application status, capture the real menu, close it and undo Save. The assistant did not perform these manual actions in response to the prompt. No application status was changed for this screenshot.

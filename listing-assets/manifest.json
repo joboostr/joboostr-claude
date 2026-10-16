@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "filename": "01-job-details.png",
+      "width": 1470,
+      "height": 746,
+      "sha256": "3a2c12417444d5def9aa01eb8c601e013543c545fdcfba7faac006301242652a"
+    },
+    {
+      "filename": "02-search-result.png",
+      "width": 1470,
+      "height": 746,
+      "sha256": "53515d220bcc946ded2c9ef1d7450b99627820780397e187e8a8b744aa626e1c"
+    },
+    {
+      "filename": "03-saved-status-controls.png",
+      "width": 1470,
+      "height": 896,
+      "sha256": "996b140c857b2cc84cb3ac8c2f33fa490dc395c5b476a35699b50e1d79e84ab3"
+    }
+  ],
+  "format": "PNG",
+  "source": "Real Joboostr responses in Claude web",
+  "processing": "Exact source screenshot rectangle export only; no resizing, retouching or content changes.",
+  "paired_prompts": "paired-prompts.txt",
+  "private_credentials_included": false
+}
