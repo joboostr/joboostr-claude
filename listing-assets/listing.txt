@@ -1,0 +1,28 @@
+Name:
+Joboostr
+
+Slug:
+joboostr
+
+One-liner:
+Find Joboostr jobs, track saved jobs and applications, and create, tailor and export factual account résumés.
+
+Description:
+Search Joboostr’s jobs in Czechia and remote roles. Compare relevant positions, save or hide jobs, and keep application progress in your Joboostr account. Create a résumé from your factual experience, tailor a separate copy, edit its content or design, and download it with Joboostr’s own templates. Saved résumés remain editable on Joboostr.
+
+Sign in to your Joboostr account and approve the access you choose. Job views use the same daily allowance across assistants. Advanced filters, full job details, job tracking and résumé tools depend on your Joboostr membership and permissions. Résumé tools require active Joboostr Pro and separate approval. Joboostr can open an employer’s application page when you ask; it does not contact employers or submit applications for you.
+
+Author name:
+Vadim Sharapov
+
+Author URL:
+https://www.joboostr.com
+
+Documentation:
+https://github.com/joboostr/joboostr-claude/blob/main/joboostr/README.md
+
+Support:
+https://www.joboostr.com/en/kontakt
+
+Privacy policy:
+https://www.joboostr.com/en/assistant-privacy
