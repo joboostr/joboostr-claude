@@ -1,7 +1,5 @@
 # Joboostr
 
-![Joboostr](assets/icon.png)
-
 Find jobs in Czechia and remote opportunities through your Joboostr account, directly in Claude. Review job details and interactive cards, save jobs, hide unwanted recommendations, and keep application progress in the same account you use on the Joboostr website.
 
 With active Joboostr Pro and separate resume approval, create a resume from your factual experience, tailor a copy to a selected job, change its content or design, save it to your account, and download a PDF produced by the real Joboostr CV Builder. Your original remains available when you tailor a copy.
