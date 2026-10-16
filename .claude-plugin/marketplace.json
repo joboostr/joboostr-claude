@@ -1,0 +1,15 @@
+{
+  "name": "joboostr",
+  "owner": {
+    "name": "Vadim Sharapov"
+  },
+  "plugins": [
+    {
+      "name": "joboostr",
+      "source": "./joboostr",
+      "description": "Find Joboostr jobs, manage saved jobs and application progress, and create, tailor, edit and export account resumes.",
+      "category": "productivity"
+    }
+  ],
+  "description": "Joboostr job search, application tracking and account resumes for Claude."
+}
