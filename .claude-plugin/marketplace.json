@@ -7,7 +7,7 @@
     {
       "name": "joboostr",
       "source": "./joboostr",
-      "description": "Find Joboostr jobs, manage saved jobs and application progress, and create, tailor, edit and export account resumes.",
+      "description": "Find Joboostr jobs, save private outside jobs with context, manage application progress and work with account resumes.",
       "category": "productivity"
     }
   ],

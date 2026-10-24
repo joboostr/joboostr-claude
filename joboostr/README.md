@@ -4,6 +4,8 @@ Find jobs in Czechia and remote opportunities through your Joboostr account, dir
 
 With active Joboostr Pro and separate resume approval, create a resume from your factual experience, tailor a copy to a selected job, change its content or design, save it to your account, and download a PDF produced by the real Joboostr CV Builder. Your original remains available when you tailor a copy.
 
+Save a job you found elsewhere to your private Tracking page, including its application link, company and useful source context. It starts in Favourite and Not applied; saving never submits an application. Job-management approval is required.
+
 ## Connect
 
 Install the Joboostr plugin in Claude. Open its **Connectors** tab, add or connect Joboostr, and sign in to your existing Joboostr account. In Claude Code, use the supported MCP sign-in flow. You never need to paste a password or access token into a conversation.
@@ -21,6 +23,7 @@ For Claude Code, install from Joboostr’s public marketplace:
 - Find up to five product designer jobs in Prague, Czechia.
 - Show remote software engineer jobs in Czechia posted this week.
 - Save the first returned job and hide the second.
+- Add this outside vacancy to my private Tracking, preserving its application link, description, location and salary facts.
 - Show my current application progress for these jobs.
 - Tailor a copy of my saved resume to the job I selected, then give me its PDF download and editing links.
 - Change my selected resume to another available template while keeping the same facts.
