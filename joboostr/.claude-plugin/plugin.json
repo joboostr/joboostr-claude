@@ -1,7 +1,7 @@
 {
   "name": "joboostr",
-  "version": "0.1.4",
-  "description": "Find Joboostr jobs, save private jobs found elsewhere, manage application progress, and create, tailor, edit and export account resumes.",
+  "version": "0.1.6",
+  "description": "Find Joboostr jobs, tailor account resumes and retain application materials, answers and progress across devices.",
   "author": {
     "name": "Vadim Sharapov",
     "url": "https://www.joboostr.com"
