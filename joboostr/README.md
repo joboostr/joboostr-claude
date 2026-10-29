@@ -6,11 +6,13 @@ With active Joboostr Pro and separate resume approval, create a resume from your
 
 Save a job you found elsewhere to your private Tracking page, including its application link, company and useful source context. It starts in Favourite and Not applied; saving never submits an application. Job-management approval is required.
 
+With separate approval for saved application materials, keep job-specific resumes, cover letters, answers, comments and next steps in your account, then continue across devices or assistants. Resume operations also require their own resume permission.
+
 ## Connect
 
 Install the Joboostr plugin in Claude. Open its **Connectors** tab, add or connect Joboostr, and sign in to your existing Joboostr account. In Claude Code, use the supported MCP sign-in flow. You never need to paste a password or access token into a conversation.
 
-Job reading, job management and resume management have separate permissions. Installing the plugin does not grant access to your account. Review the requested permissions during sign-in. Joboostr checks account ownership and membership on each action. If an action needs permission your connection lacks, reconnect Joboostr through Claude’s connector settings and explicitly approve the required access.
+Job reading, job management, resume management and saved application materials have separate permissions. Installing the plugin does not grant access to your account. Review the requested permissions during sign-in. Joboostr checks account ownership and membership on each action. If an action needs permission your connection lacks, reconnect Joboostr through Claude’s connector settings and explicitly approve the required access.
 
 For Claude Code, install from Joboostr’s public marketplace:
 
@@ -29,7 +31,7 @@ For Claude Code, install from Joboostr’s public marketplace:
 - Change my selected resume to another available template while keeping the same facts.
 - How many more Joboostr jobs can I view today?
 
-Available facts and filters depend on your Joboostr account access. Job search shares the same allowance across connected assistants: thirty distinct jobs per day, resetting at midnight in Prague. Reopening a job already returned that day does not consume another slot. Resume operations do not add job-search allowance. A PDF download link expires after ten minutes; ask Claude to export the current saved revision again if necessary.
+Available facts and filters depend on your Joboostr account access. Job search shares the same allowance across connected assistants: 100 distinct jobs per day, resetting at midnight in Prague. Reopening a job already returned that day does not consume another slot. Resume operations do not add job-search allowance. A PDF download link expires after ten minutes; ask Claude to export the current saved revision again if necessary.
 
 Interactive cards depend on the Claude surface. If a surface does not display them, Claude can use the same tools and returned Joboostr links. Opening Apply does not send an application. The plugin does not contact employers, make purchases or submit applications.
 
